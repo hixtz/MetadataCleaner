@@ -1,6 +1,8 @@
 # MetadataCleaner
 Small executable that cleans metadata from all files in a specified directory
 
+This is a mini program based on exiftool
+
 To build you only require .NET Framework 4.8:
 Just open the Cleaner.sln file with Visual Studio and build with Release configuration.
 
