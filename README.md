@@ -2,7 +2,7 @@
 Small executable that cleans metadata from all files in a specified directory
 
 To build you only require .NET Framework 4.8:
-Just open the solution and build with Release configuration.
+Just open the Cleaner.sln file with Visual Studio and build with Release configuration.
 
 2 ways to run:
 
