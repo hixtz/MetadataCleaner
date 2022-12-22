@@ -10,7 +10,7 @@ namespace Cleaner
     static void Main(string[] args)
     {
       var filepath = args[0];
-      if (!string.IsNullOrEmpty(filepath))
+      if (string.IsNullOrEmpty(filepath))
       {
         var executingPath = GetExecutingDirectory();
         filepath = executingPath.FullName;
